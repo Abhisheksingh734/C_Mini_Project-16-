@@ -37,4 +37,4 @@ To use the Laptop Repair System, follow these steps:
 ----
 
 # Support
-If you encounter any issues or have any questions, please contact the project developer [*ClickHere*](abhisheksinghasr734@gmail.com).
+If you encounter any issues or have any questions, please contact the project developer [*abhisheksinghasr734@gmail.com*].
